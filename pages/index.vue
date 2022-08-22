@@ -4,7 +4,7 @@
       <h1 class="h2">
         Slicing Helper
       </h1>
-      <p>Tools untuk meninkatkan desain presisi kamu ketika slicing desain dari figma</p>
+      <p>Tools untuk meningkatkan desain presisi kamu ketika slicing desain dari figma</p>
       <hr>
       <b-form>
         <b-row>
